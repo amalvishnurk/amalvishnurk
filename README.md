@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/website-development-banner_33099-1687.jpg?w=2000)](https://amalvishnurk.io)
+[![MasterHead](https://quotefancy.com/media/wallpaper/3840x2160/401991-Henry-Ford-Quote-Anyone-who-stops-learning-is-old-whether-at.jpg)](https://amalvishnurk.io)
 <h1 align="center">Hi 👋, I'm Amal Vishnu</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
